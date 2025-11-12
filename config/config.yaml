@@ -99,7 +99,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  - id: "github:
+  - id: "github"
     name: "Github"
   - id: "juejin"
     name: "掘金"
